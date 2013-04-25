@@ -24,6 +24,7 @@ public class LinkedListSample {
 		for (Integer i : list) {
 			System.out.println(i);
 		}
+		
 
 	}
 
