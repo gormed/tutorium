@@ -56,6 +56,7 @@ public class AdvancedCollectionsSample {
 		};
 		// sort a collection with a custom comparator for height
 		Collections.sort(persons, heightComp);
+		Collections.reverse(persons);
 		// Ausgabe
 		System.out.println(persons.toString());
 		System.out.println();
