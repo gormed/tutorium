@@ -3,6 +3,8 @@ package tutorium.libs.maps;
 import java.util.HashMap;
 import java.util.Map;
 
+import tutorium.libs.util.Person;
+
 public class HashMapSample {
 
 	public static void main(String[] args) {
