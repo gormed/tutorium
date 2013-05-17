@@ -1,5 +1,7 @@
 package tutorium.libs.timer;
 import java.awt.Graphics;
+import java.awt.event.WindowEvent;
+import java.awt.event.WindowListener;
 import java.sql.Date;
 import java.sql.Time;
 import java.util.Timer;
@@ -26,14 +28,60 @@ public class TimerSample extends JFrame {
 
 		Timer timer = new Timer();
 		
-		TimerTask task = new TimerTask() {
-			
+		final TimerTask task = new TimerTask() {
+			int counter = 5;
 			@Override
 			public void run() {
-				label.setText( (new Time(System.currentTimeMillis())).toString() );				
+				label.setText(""+counter--);
+				if (counter < 0) {
+					this.cancel();
+				}
+				// label.setText( (new Time(System.currentTimeMillis())).toString() );				
 			}
 		};
-		
+		frame.addWindowListener(new WindowListener() {
+			
+			@Override
+			public void windowOpened(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void windowIconified(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void windowDeiconified(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void windowDeactivated(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void windowClosing(WindowEvent arg0) {
+				task.cancel();
+			}
+			
+			@Override
+			public void windowClosed(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void windowActivated(WindowEvent arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+		});
 		timer.schedule(task, 0, 1000);
 		
 		frame.add(label);
