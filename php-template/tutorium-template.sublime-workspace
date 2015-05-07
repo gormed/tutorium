@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sec",
+				"section	Section"
+			],
+			[
+				"bas",
+				"basili1996role"
+			],
+			[
+				"en",
+				"engineering"
+			],
+			[
+				"subs",
+				"subsection"
+			],
+			[
+				"sub",
+				"sub	Sub Section"
+			],
+			[
+				"L",
+				"LaTeXTools"
+			],
+			[
+				"UR",
+				"Url"
+			],
+			[
+				"ite",
+				"item	Itemize"
+			],
+			[
+				"item",
+				"itemize"
+			],
+			[
+				"R",
+				"RQ1.3"
+			],
+			[
+				"RQ",
+				"RQ1.1"
+			],
+			[
+				"desc",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"git q",
+				"Git: Quick Add"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"bib",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"char",
+				"Character Table: Insert Unicode Character"
+			],
+			[
+				"cite",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"",
+				"Character Table: Lookup Unicode Character"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"git re",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git unst",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"git hi",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 309.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/N/onwCloud/HSHL Lehre/MI & RN/Praktikum/template"
+	],
+	"file_history":
+	[
+		"/N/Projects/githome/port-2-0/index.php",
+		"/N/onwCloud/HSHL Lehre/MI & RN/Praktikum/template/interface/connection-base.php",
+		"/N/Programme/Sublime Text 3/Data/Packages/User/CiteBibtex.sublime-settings",
+		"/N/Programme/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/N/Programme/Sublime Text 3/Data/Packages/CiteBibtex/Default.sublime-keymap",
+		"/N/Projects/githome/latex-bachelor/Thesis.pdf",
+		"/C/Users/Hans/.bashrc",
+		"/C/Program Files (x86)/Git/etc/git-completion.bash",
+		"/C/Program Files (x86)/Git/etc/inputrc",
+		"/N/Programme/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+		"/N/Programme/Sublime Text 3/Data/Packages/User/SublimeGit.sublime-settings",
+		"/N/Programme/Sublime Text 3/Data/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/N/Programme/Sublime Text 3/Data/Packages/CiteBibtex/CiteBibtex.sublime-settings",
+		"/H/Projekte/web/void-ptr.org/port/portfolio_meta.php",
+		"/H/Projekte/web/void-ptr.org/port/folio_html.php",
+		"/H/Documents/HSHL/4. Semester/Experience Design/Inhalt",
+		"/H/Documents/HSHL/4. Semester/Experience Design/Aufgaben/1. Aufgabe",
+		"/C/Users/Hans/AppData/Local/Temp/p4v/p4p4y4_5.35.250.115_1666/depot/Caede_TrueSky/Source/Caede/Character/VitalityComponent#2.h",
+		"/N/Programme/Sublime Text 3/Data/Packages/User/LaTeXTools.sublime-settings",
+		"/N/Projects/githome/latex-bachelor/Bibliography.bib",
+		"/N/onwCloud/Bachelor/latex-bachelor/Bibliography.bib",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/1_Introduction/3_Development.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/1_Introduction/2_Research.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/1_Introduction/1_ProjectContext.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Thesis.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Thesis.aux",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/4_StudyOfExistingUIs.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/4_SurveysForGameUI.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/5_ConceptsForGameUI.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/6_ScientificMethodsForPrototyping.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/7_SurveysForGameUI.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/8_UnrealEngine4.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/9_Summary.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/10_Prerequisites.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/11_UIDesignAndPrototypingProcess.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/12_Implementation.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/13_Evaluation.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/14_ConclusionAndFurtherWork.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Thesis.bbl",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/4_Tutorial/A_Tutorial.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Abbreviations.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Acknowledgements.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Dedications.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/ChapterTemplate.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/1_Introduction/2_Research.log",
+		"/N/onwCloud/Bachelor/latex-bachelor/README.md",
+		"/N/onwCloud/Bachelor/latex-bachelor/.gitignore",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/2_ConceptsForGameUI.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/6_Summary.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/5_UnrealEngine4.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/3_ScientificMethodsForPrototyping.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Thesis.toc",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_ResearchAndPrestudy.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/1_Introduction.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/5_ConclusionAndFurtherWork.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/4_Evaluation.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/3_Implementation.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/2_UIDesignAndPrototypingProcess.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/1_Prerequisites.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/3_Contribution/3_Innovation-IdeaCollectionProcess.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/4_UnrealEngine4.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/2_ScientificMethodsForPrototyping.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/1_StudyOfExistingUIs.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/3_SurveysForGameUI.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/2_Research/5_Summary.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Thesis.cls",
+		"/N/onwCloud/Bachelor/latex-bachelor/Parts/PartTemplate.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/3_UnrealEngine4.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/4_Contribution.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/1_Introduction.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/2_Research.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/A_Tutorial.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Abbreviations/Abbreviations.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/3_UnrealEngine4",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/ChapterTemplate.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/Chapter1_latextuts.tex",
+		"/N/onwCloud/Bachelor/latex-bachelor/Chapters/[no file]",
+		"/N/onwCloud/Bachelor/latex-bachelor/main.pdf",
+		"/N/Programme/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Source/CaedeEditor/CaedeEditor.Target.cs",
+		"/N/Projects/githome/darwin/Assets/Scripts/Gameplay/Core/Character/_CharacterController.cs",
+		"/H/Documents/HSHL/6. Semester/Praktxissemester",
+		"/N/Projects/githome/www-khalifa-eu/README",
+		"/N/Projects/githome/darwin/Assets/Scripts/Gameplay/Core/Character/GroundCharacter.cs",
+		"/N/onwCloud/.csync_journal.db",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Source/Caede/Caede.Build.cs",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Source/Caede/Caede.Target.cs",
+		"/N/Projects/githome/scribbit/db_work.php",
+		"/N/Projects/githome/scribbit/bypass.php",
+		"/N/Projects/githome/scribbit/path.php",
+		"/N/Games/Minecraft/overviewer-0.11.158-win64/sample_config.py",
+		"/N/Projects/githome/port/text_html.php",
+		"/H/Projekte/web/blackjackX.void-ptr.org/connect.php",
+		"/C/Users/Hans/AppData/LocalLow/DefaultCompany/Darwin/settings.json",
+		"/N/Projects/Rocket/Workspace_KtK/Caede_July/Content/Blueprints/NPCs/Guards/Guard.uasset",
+		"/N/Projects/Rocket/Workspace_KtK/Caede_July/Config/DefaultEngine.ini",
+		"/N/Projects/githome/UnrealEngine/Engine/Config/BaseEngine.ini",
+		"/H/Tools/MaFu1.7/settings/~.ini",
+		"/H/Tools/MaFu1.7/settings/settings.ini",
+		"/H/Projekte/web/blackjackX.void-ptr.org/bj.php",
+		"/H/Projekte/web/void-ptr.org/port/db_login.php",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Source/CaedeUncooked/CaedeUncooked.Target.cs",
+		"/H/Projekte/web/hosteurope_wiki/LocalSettings.php",
+		"/N/Projects/githome/UnrealEngine/Engine/Config/Windows/WindowsEngine.ini",
+		"/N/Projects/githome/UnrealEngine/Engine/Source/Programs/UnrealBuildTool/Windows/UEBuildWindows.cs",
+		"/N/Projects/Rocket/Workspace_KtK/Caede_TrueSky/Content/Character/mainchar_lightarmor/mainchar_onehand_sneak.uasset",
+		"/N/Projects/Rocket/Workspace_KtK/Caede_TrueSky/Config/DefaultEngine.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede_TrueSky/Caede.uproject",
+		"/N/Projects/githome/UnrealEngine/Engine/Source/Programs/UnrealBuildTool/Configuration/UEBuildModule.cs",
+		"/H/Projekte/web/hosteurope_wiki/index.php",
+		"/N/Projects/githome/scribbit/db_login.php",
+		"/N/Projects/githome/port/folio/extern_scripts.php",
+		"/N/Projects/githome/UnrealEngine/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj",
+		"/C/Users/Hans/AppData/Local/Google/Chrome/User Data/Default/preferences",
+		"/N/Programme/UE4/4.4/Engine/Config/BaseEngine.ini",
+		"/N/Projects/Rocket/Workspace_KtK/beta5/Config/DefaultInput.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Config/DefaultInput.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Config/DefaultGame.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Config/DefaultEngine.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Config/DefaultEditorUserSettings.ini",
+		"/N/Projects/Rocket/Workspace_KtK/Caede/Config/DefaultEditor.ini",
+		"/C/Users/Hans/AppData/Local/Temp/p4v/p4p4y4_5.35.250.115_1666/depot/Caede_July/Content/Blueprints/Weapons/melee_weapons/Longsword#2.uasset",
+		"/C/Users/Hans/Documents/maya/scripts/Water Drops v1.0.mel",
+		"/N/Projects/Maya 2014/Mate Bottle/info.txt",
+		"/C/Users/Hans/Desktop/Kamera Anbieter",
+		"/H/Projekte/web/hosteurope_wiki/structure.php",
+		"/C/Users/Hans/AppData/Local/Temp/p4v/p4p4y4_5.35.250.115_1666/depot/beta6/Config/DefaultInput#2.ini"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"basili1996role",
+			"johnson2003effective",
+			"subsectiion*",
+			"paragraph",
+			"[{+}+]",
+			"[{*}][}*]",
+			"[{+}+]",
+			"[{*][}*]",
+			"[{]*[}]*",
+			"[{][}]",
+			"{.}",
+			"{ || }",
+			"{ | }",
+			"9",
+			"usepackage",
+			"\\citep*",
+			"\\citet*",
+			"\\citep*[][]",
+			"\\citep*",
+			"llanos2011players",
+			"citet",
+			"bib",
+			"natbib",
+			"Reference2",
+			"Reference1",
+			"Reference3",
+			"PrecompileHeaderEnvironment",
+			"wizard",
+			"slate",
+			"plugin",
+			"plugins",
+			" type=\"text/javascript\"",
+			"port_bd",
+			"-",
+			"*",
+			"ctrl+p"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"subsection*",
+			"subsectiion*",
+			"subsection",
+			"\"",
+			"September",
+			"\\citep*[][]",
+			"\\citep*",
+			"\\citep*[][]",
+			"\\citet*",
+			"citep",
+			"vonahn2008designing",
+			"fagerholt2009beyond",
+			"hunicke2004mda",
+			"scribbit_db",
+			"*",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 130.0
+	},
+	"output.git-pull":
+	{
+		"height": 0.0
+	},
+	"output.git-push":
+	{
+		"height": 130.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unicode_preview":
+	{
+		"height": 136.0
+	},
+	"project": "tutorium-template.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
