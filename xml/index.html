@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8"/>
+	<title>XHTML Sample</title>
+	<link href="css/main.css" rel="stylesheet"/>
+</head>
+<body>
+	<center>
+		<div class="logo"></div>
+		<h3>RSS Parse</h3>
+		<form>
+			<textarea name="xml" id="xml" cols="75" rows="15"></textarea>
+			<br>
+			<button type="button" onclick="return ParseXML(form.xml.value);">Parse</button>
+		</form>
+		<div class="rss-reader"></div>
+	</center>
+</body>
+<!-- see http://api.jquery.com/ -->
+<script src="js/jquery-1.11.3.js"></script>
+<script src="js/xml-parse.js"></script>
+</html>

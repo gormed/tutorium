@@ -1,0 +1,8 @@
+
+.logo {
+	background-image: url('../resources/void.svg');
+	background-size: 100% 100%;
+	background-position: center;
+	width: auto;
+	height: 20em;
+}
