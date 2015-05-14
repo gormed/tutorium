@@ -12,7 +12,7 @@
 
 <?php 
 
-//include_once './formular.php';
+include_once './formular.php';
 
 ?>
 
