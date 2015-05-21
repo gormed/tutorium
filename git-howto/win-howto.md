@@ -29,6 +29,7 @@ You will see a command line window, don't be afraid. For some useful commans see
 Enter the following two lines, to configure the global name and email adress used by git:
 
 > $ git config --global user.name "Your Name"
+
 > $ git config --global user.email your_mail@example.com
 
 Here you put your name and email address from github!
