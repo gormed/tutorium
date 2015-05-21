@@ -1,7 +1,7 @@
 Git on Windows
 =======
 
-This is the instruction for installation on a windows machine.
+This is the instruction for a git installation (using tortoisegit client) on a windows machine.
  
 Required
 --------
@@ -66,12 +66,10 @@ Clone the Repo
 
 There are several ways to set your ssh key for tortoise git. One is to use Putty (https://code.google.com/p/tortoisegit/wiki/UsingPuTTY). 
 
-The other is to define it inside the TortoiseGit settings and make tortoisegit deal with putty directly. Right click in your explorer, any directory and go to TortoiseGit->Settings. Here you go to the Git menu point and search for the putty key in your .ssh directory and select it and click okay.
+The other is to define it inside the TortoiseGit and make it deal with putty directly. This option is available if you installes tortoisegit with putty correctly. You can verify this if you try to clone a repository (Right Click into a folder, then 'Git Clone...'), the option 'Load Putty Key' is enabled. Here you point to the ppk file in your .ssh directory.
 
-Got to a place on your pc where your projects or software is stored, right click and choose the "Clone" option from the TortoiseGit-Explorer Context Menu. You will have to enter the URL of the repo:
+Got to a place on your pc where your projects or software is stored, right click and choose the "Clone" option from the TortoiseGit-Explorer Context Menu as before. You will have to enter the URL of the repo, e.g.:
 
 > git@github.com:gormed/tutorium.git
 
-You will see that below the line will automatically create the sub-directory, which you can change to another name, it is important that it is empty. Click okay, and wait :)
-
-This should take a while (1.6 Gb) - but after that you can start the editor by browsing to the Engine/Binaries/Win64/ directory and find the UE4Editor.exe. Also you can initialize the UE4 windows environment variables with the UnrealVersionSelector-Win64-Shipping.exe.
+You will see that below the line will automatically create the sub-directory, which you can change to another name, it is important that it is empty. Click okay, and wait until it is done :)
