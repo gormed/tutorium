@@ -24,7 +24,7 @@ Okay, if you have everything installed, we first configure the environment. You 
 
 (See http://git-scm.com/book/en/Getting-Started-First-Time-Git-Setup for details)
 
-You will see a command line window, don't be afraid. For some useful commans see the cheat sheets: 
+You will see a command line window, don't be afraid. For some useful commans see the [cheat sheets](https://github.com/gormed/tutorium/tree/master/git-howto/cheat-sheets) .
 
 Enter the following two lines, to configure the global name and email adress used by git:
 
