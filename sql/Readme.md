@@ -2,6 +2,11 @@
 
 ## Web Lessons/Tutorials
 * [SQL Tutorial - Learn SQL Query Language](http://www.1keydata.com/sql/sql.html)
+* [Einführung in SQL: Relationale Datenbanken](https://de.wikibooks.org/wiki/Einf%C3%BChrung_in_SQL:_Relationale_Datenbanken)
+
+## What Wikipedia says
+* [Relational database](https://en.wikipedia.org/wiki/Relational_database)
+* [Entity–relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
 ## SQL Reference Overview
 * [SELECT](http://www.1keydata.com/sql/sqlselect.html) - [DISTINCT](http://www.1keydata.com/sql/sqldistinct.html)
